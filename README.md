@@ -10,7 +10,7 @@ pulse-crm/
 └── web/      React + Vite + Tailwind dashboard
 ```
 
-## 1. Frontend only (no backend)
+## 1. Frontend
 
 The dashboard ships with mock data (`USE_MOCK = true` in `web/src/api.js`).
 
